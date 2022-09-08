@@ -130,3 +130,9 @@ dmypy.json
 
 # data
 data/
+figures/
+papers/
+
+.DS_Store
+*.docx
+*.pdf
